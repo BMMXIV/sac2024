@@ -1,6 +1,6 @@
 {
     "name": "Sprint Ace Cup 2024",
-    "version": "24.1013",
+    "version": "24.1024",
     "packages": {
         "sac_a": {
             "description": "SAC package 1/3",
@@ -11,8 +11,8 @@
         },
         "sac_b": {
             "description": "SAC package 2/3",
-            "version": "24.0908",
-            "checksum": "797680aa6e3bdfbbf6068c4000a7814a1e6c3cfdde2969314cbda3e8b306c819",
+            "version": "24.1024",
+            "checksum": "6af344f86ea23a67163391456a3f685f5962ba7f3883ce1477531085e0f1ed96",
             "url": "https://bmmxiv.github.io/sac2024/sac2024_b.zip",
             "file": "sac2024_b.zip"
         },
